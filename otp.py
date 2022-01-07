@@ -43,7 +43,7 @@ class Mail:
         try: 
             s = smtplib.SMTP("smtp.gmail.com" , 587)  # 587 is a port number 
             s.starttls()
-            s.login("random08092001@gmail.com" , 'Tushar08@')
+            s.login("maik id" , 'password')
             register = random.randint(100000, 999999)
             register = str(register)
             s.sendmail("random08092001@gmail.com" , self.email_entry.get() , register)
