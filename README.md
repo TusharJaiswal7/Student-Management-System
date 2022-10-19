@@ -26,7 +26,27 @@
 
 ## Screenshots
 
-<img src="">
+## Register.py 
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\1.png">
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\2.png">
+
+## Login.py
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\3.png">
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\4.png">
+
+## DashBoard (Main.py)
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\5.png">
+
+## Courses.py
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\6.png">
+
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\7.png">
+
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\8.png">
+
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\9.png">
+
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\10.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
