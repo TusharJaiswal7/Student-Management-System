@@ -30,8 +30,9 @@
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/1.png">
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/2.png">
 
-## Login.py
+
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/3.png">
+## Login.py
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/4.png">
 
 ## DashBoard (Main.py)
@@ -39,13 +40,13 @@
 
 ## Courses.py
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/6.png">
-
+## Students.py
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/7.png">
-
+## Results,py 
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/8.png">
-
+## CheckResults.py
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/9.png">
-
+## Quiz.py
 <img src="https://github.com/TusharJaiswal7/Student-Management-System/blob/main/10.png">
 
 
